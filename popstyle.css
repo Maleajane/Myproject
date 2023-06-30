@@ -1,0 +1,17 @@
+@import url('https://fonts.google.com/specimen/Bacasime+Antique')
+body{
+    background-color: #ffffff;
+    font-family: "Bacasime Antique", sans-serif;
+    font-size: 15px;
+    }
+}
+
+h1 {
+    color: blue;
+    margin-left: 20px;
+}
+
+p {
+    color: aqua;
+    margin-left: 20px;
+}
